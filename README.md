@@ -40,13 +40,13 @@
 </div>
 
 ###
-
-<br clear="both">
+  <!--
+<<! <br clear="both">
 
 <img src="https://raw.githubusercontent.com/CapSte42/CapSte42/output/snake.svg" alt="Snake animation" />
 
 ###
-
+-->
 <div align="center">
   <img src="https://profile-counter.glitch.me/CapSte42/count.svg?"  />
 </div>
