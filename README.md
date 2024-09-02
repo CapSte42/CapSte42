@@ -1,10 +1,40 @@
-<h2 align="left">Hi 👋! My name is Stefano and I'm a developer, from Firenze!</h2>
+![wallp](https://github.com/user-attachments/assets/5a24a48c-436b-4e49-8e61-fe0a2de38540)
 
-###
+Welcome to my GitHub profile!
+My name is Stefano, and I am a student at 42, deeply passionate about programming, especially in C and C++.
+I am continually seeking new challenges that push the boundaries of my skills and knowledge.
+Below, you will find some of my most significant projects.
+Thank you for visiting!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CapSte42&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CapSte42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+---
+
+## My favourite project
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+<div style="flex: 1; min-width: 45%; margin: 10px;">
+  <h2><a href="https://github.com/CapSte42/sig_guard" target="_blank">sig_guard</a></h2>
+  <p>Automatic Stack Trace and Debugging for Segmentation Faults (and other signal) in C Programs.</p>
+  <img src="https://github.com/user-attachments/assets/dfcf3c5a-7fe1-4977-baf5-1e9d4e3bfc11" alt="sig_guard" style="width: 25%; border-radius: 10px;">
+</div>
+
+<div style="flex: 1; min-width: 45%; margin: 10px;">
+  <h2><a href="https://github.com/CapSte42/minishell" target="_blank">minishell</a></h2>
+  <p>The minishell project is an essential part of the 42 curriculum. It tasks students with creating a simple shell, similar to bash. This project aims to improve understanding of processes, file descriptors, and the intricacies of shell programming in C.</p>
+  <img src="https://github.com/user-attachments/assets/04f758fc-c120-4e36-8f90-1e36a9b68fff" alt="minishell" style="width: 25%; border-radius: 10px;">
+</div>
+
+<div style="flex: 1; min-width: 45%; margin: 10px;">
+  <h2><a href="https://github.com/CapSte42/Cub3d" target="_blank">Cub3d</a></h2>
+  <p>Cub3D is a project within the 42 coding curriculum that challenges students to create a basic 3D game engine using the C programming language. Inspired by classic raycasting games like Wolfenstein 3D, the project aims to develop skills in low-level graphics programming, understanding of game physics, and mathematical concepts such as vectors and matrices.</p>
+  <img src="https://github.com/user-attachments/assets/896d4451-8cf7-457c-8926-ce6290366b59" alt="Cub3d" style="width: 25%; border-radius: 10px;">
+</div>
+
+<div style="flex: 1; min-width: 45%; margin: 10px;">
+  <h2><a href="https://github.com/CapSte42/fdf" target="_blank">fdf</a></h2>
+  <p>FdF, short for "Fil de Fer" (English: "Wireframe"), is a programming project from the 42 school curriculum. The primary goal of this project is to render an isometric view of a map to achieve a 3D effect, similar to what is utilized in video games. As a secondary objective, I have implemented an informational menu, spherical projection, and translation across all axes.</p>
+  <img src="https://github.com/user-attachments/assets/3fd742ef-e2db-4754-b020-8ddfaeb13919" alt="fdf" style="width: 25%; border-radius: 10px;">
 </div>
 
 ###
@@ -38,25 +68,3 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-  <!--
-<<! <br clear="both">
-
-<img src="https://raw.githubusercontent.com/CapSte42/CapSte42/output/snake.svg" alt="Snake animation" />
-
-###
--->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/CapSte42/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/11136835965">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11136835965&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
